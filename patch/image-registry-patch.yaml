@@ -12,6 +12,6 @@ spec:
       - quay.io
       - registry.redhat.io
       - image-registry.openshift-image-registry.svc:5000
-      - '*.container.siemens-energy.com'
+      - '*.container.someone.com'
       - registry.connect.redhat.com
       - 'ghcr.io/bakito/sealed-secrets-web:v3.1.1'
