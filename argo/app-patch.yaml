@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    path: patch
+    path: overlays/sealsec-overlay
     repoURL: https://github.com/maxisses/imagereg.git
     targetRevision: main
   destination:
